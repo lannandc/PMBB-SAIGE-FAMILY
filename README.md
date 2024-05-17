@@ -5,6 +5,8 @@ Nextflow (https://www.nextflow.io/docs/latest/install.html)
 Singularity (https://hub.docker.com/r/pennbiobank/saige)
 
 Getting started (on LPC):
+
+
 1.Make sure singularity and nextflow are loaded pipeline will not run otherwise
 module load nextflow
 module load singularity
